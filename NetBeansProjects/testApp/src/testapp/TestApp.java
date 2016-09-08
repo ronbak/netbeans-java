@@ -29,7 +29,7 @@ public class TestApp {
      */
     /**
      * TestApp is a `my-first` Java Netbeans project that compiles to a jar and
-     * includes a dependant library
+     * includes a dependent library
      * See: testApp/build.xml on how to include jar files in the build after added via GUI
      * so you end up with a `static` jar.
      * in .bashrc and .bash_profile add jdk to path
